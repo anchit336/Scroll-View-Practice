@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scroll View Practice</string>
+    <string name="profile1">Name: Hirak Barman
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile2">Name: Nitish Sinha
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile3">Name: Rahul Mandal
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile4">Name: Tanmoy Sinha
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile5">Name: Bikarm Singha
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile6">Name: Sourav Mohanto
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+    <string name="profile7">Name: Santosh Adhikari
+                            Add: Khoribari
+                            Dist: Darjeeling
+                            Pin: 734427</string>
+</resources>
